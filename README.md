@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kunal-03
-- 👀 I’m interested in Python, ML, AI, Automation,
-- 🌱 I’m currently learning Machine Learning, Fast API
-- 💞️ I’m looking to collaborate on Fast API prjects
+- 👀 I’m interested in Python, ML, AI, Automation, Devops, cloud.
+- 🌱 I’m currently learning FastAPI, Machine Learning, AWS, Devops. 
+- 💞️ I’m looking to collaborate on FastAPI and AWS cloud projects
 - 📫 Reach me at twitter @lucky2008
 
 <!---
